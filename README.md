@@ -1,4 +1,4 @@
-Ссылка на репозиторий: https://github.com/aNOOBisTheGod/ono-tebe-nado-ad
+https://github.com/aNOOBisTheGod/ono-tebe-nado-ad
 
 # Оно тебе надо
 
